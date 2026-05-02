@@ -9,7 +9,7 @@ import{n as e}from"./rolldown-runtime.DACpJIMP.mjs";import{n as t,t as n}from"./
 <\/script>
 
 <!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-H0KYYNH0D6"><\/script>
+<script async="" src="data:,?id=G-H0KYYNH0D6"><\/script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
