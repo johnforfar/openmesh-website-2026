@@ -1,0 +1,8 @@
+/*
+ * Cylinder (phosphor-icons/Cylinder@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/iJp2BTAYI01Uq7JBuaRW/LsUj1M8DiOlKCAkLbgr0/Cylinder.js"
+export { default } from "https://framerusercontent.com/modules/iJp2BTAYI01Uq7JBuaRW/LsUj1M8DiOlKCAkLbgr0/Cylinder.js"

@@ -1,0 +1,8 @@
+/*
+ * GitBranch (phosphor-icons/GitBranch@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/uDV8ydf2SuVf4sCev00q/MFo4BgR7MQJHkQLG9HIa/GitBranch.js"
+export { default } from "https://framerusercontent.com/modules/uDV8ydf2SuVf4sCev00q/MFo4BgR7MQJHkQLG9HIa/GitBranch.js"
